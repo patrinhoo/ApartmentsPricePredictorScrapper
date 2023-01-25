@@ -3,7 +3,7 @@ This is a simple scrapper for web scrapping apartments data from: \
 https://gratka.pl/  
 \
 Data scrapped in this project is used to create ML model in this repo:\
-\
+https://github.com/patrinhoo/ApartmentsPricePredictorModel/  
 \
 And created model is used in website in this repo:\
 https://github.com/patrinhoo/ApartmentsPricePredictorAPI/  
