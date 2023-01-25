@@ -6,7 +6,7 @@ Data scrapped in this project is used to create ML model in this repo:\
 \
 \
 And created model is used in website in this repo:\
-https://github.com/patrinhoo/ApartmentsPricePredictorAPI
+https://github.com/patrinhoo/ApartmentsPricePredictorAPI/  
 \
 You can check working website here:\
 https://apartmentspricepredictor.herokuapp.com/  
