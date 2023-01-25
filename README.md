@@ -10,7 +10,7 @@ And created model is used in website in this repo:\
 \
 You can check working website here:\
 https://apartmentspricepredictor.herokuapp.com/  
-\
+
 
 ## Testing
 To test this scrapper you need to navigate to parent directory and type
