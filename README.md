@@ -1,6 +1,6 @@
 # ApartmentsPricePredictorScrapper
 This is a simple scrapper for web scrapping apartments data from: \
-https://gratka.pl/\
+https://gratka.pl/  
 \
 Data scrapped in this project is used to create ML model in this repo:\
 \
@@ -9,7 +9,7 @@ And created model is used in website in this repo:\
 \
 \
 You can check working website here:\
-https://apartmentspricepredictor.herokuapp.com/\
+https://apartmentspricepredictor.herokuapp.com/  
 \
 ## Testing
 To test this scrapper you need to navigate to parent directory and type
